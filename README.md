@@ -18,7 +18,7 @@ This is command line based adventure game.
 
 ## How to run the game:
 
--Unzip the folder
+-Unzip the folder 
 -Open command line/shell
 -Navigate to the folder
 -type "make" and press enter
