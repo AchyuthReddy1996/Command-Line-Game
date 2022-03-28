@@ -18,9 +18,9 @@ This is command line based adventure game.
 
 ## How to run the game:
 
--Unzip the folder 
--Open command line/shell
--Navigate to the folder
--type "make" and press enter
--type "./main map1.json" note: you can enter any json file i.e map1.json or map2.json or map3.json
+-Unzip the folder <br />
+-Open command line/shell <br />
+-Navigate to the folder <br />
+-type "make" and press enter <br />
+-type "./main map1.json" note: you can enter any json file i.e map1.json or map2.json or map3.json <br />
 -Now you can play
